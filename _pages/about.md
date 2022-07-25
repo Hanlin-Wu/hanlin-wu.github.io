@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xufeng Duan's Homepage"
+title: "Index"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
