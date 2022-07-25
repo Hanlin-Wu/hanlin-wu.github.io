@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Chinese language and literature, neurolinguistics lab, Sun Yat-sen University, 2019
-* M.S. in Linguistics and modern languages, The Chinese University of Hong Kong, 2020
-* Ph.D in Linguistics and modern languages, The Chinese University of Hong Kong, 2024 (expected)
+* B.S. in Chinese language and literature, Neurolinguistics Teaching lab, Sun Yat-sen University, 2019
+* M.A. in Linguistics and modern languages, The Chinese University of Hong Kong, 2020
+* Ph.D in Linguistics and modern languages, Langauge Processing Lab, Brain and Mind Institute, The Chinese University of Hong Kong, 2024 (expected)
 
 Work experience
 ======
