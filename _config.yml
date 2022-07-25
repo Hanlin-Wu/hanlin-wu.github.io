@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Xufeng Duan's Homepage"
-title_separator          : "-"
+title_separator          : 
 name                     : &name "Xufeng Duan"
 description              : &description "personal description"
 url                      : "https://xufengduan.github.io"
