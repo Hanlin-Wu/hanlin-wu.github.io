@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : 
-name                     : &name "Xufeng Duan"
+name                     : &name "Hanlin Wu"
 description              : &description "personal description"
 url                      : "https://xufengduan.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xufengduan/xufengduan.github.io"
+repository               : "Hanlin-Wu/hanlin-wu.github.io"
 teaser                   :  "favicon.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xufeng Duan"
+  name             : "Hanlin Wu"
   avatar           : "profile.png"
   bio              : "Hi, I am a PhD student at language processing lab, the Chinese University of Hong Kong"
   location         : "Hong Kong"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xufengduan"
+  github           : "Hanlin-Wu"
   google_plus      :
   keybase          :
   instagram        :
