@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xufeng Duan"
+title: "Hanlin Wu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,5 +10,4 @@ redirect_from:
 
 **About Me**
 
-hanlin
 
