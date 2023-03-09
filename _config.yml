@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : 
-name                     : &name "Hanlin Wu"
+name                     : &name "Hanlin Wu (Henry)"
 description              : &description "personal description"
-url                      : "https://xufengduan.github.io"
+url                      : "https://hanlin-wu.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Hanlin-Wu/hanlin-wu.github.io"
 teaser                   :  "favicon.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
