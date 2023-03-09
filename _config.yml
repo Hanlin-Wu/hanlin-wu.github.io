@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : 
-name                     : &name "Hanlin Wu (Henry)"
+name                     : &name "Hanlin Wu"
 description              : &description "personal description"
 url                      : "https://hanlin-wu.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hanlin Wu"
+  name             : "Hanlin Wu (Henry)"
   avatar           : "profile.png"
-  bio              : "Hi, I am a PhD student at language processing lab, the Chinese University of Hong Kong"
+  bio              : "Hi, I am a PhD student at the Language Processing Lab, the Chinese University of Hong Kong."
   location         : "Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=ZT-J0MoAAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
