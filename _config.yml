@@ -11,9 +11,9 @@ title                    : "Homepage"
 title_separator          : 
 name                     : &name "Hanlin Wu"
 description              : &description "personal description"
-url                      : "https://hanlin-wu.github.io"
+url                      : "https://henrywu.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Hanlin-Wu/hanlin-wu.github.io"
+repository               : "Hanlin-Wu/henrywu.github.io"
 teaser                   :  "favicon.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
