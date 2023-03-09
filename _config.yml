@@ -11,9 +11,9 @@ title                    : "Homepage"
 title_separator          : 
 name                     : &name "Hanlin Wu"
 description              : &description "personal description"
-url                      : "https://henrywu.github.io"
+url                      : "https://henrywuhanlin.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Hanlin-Wu/henrywu.github.io"
+repository               : "henrywuhanlin/henrywuhanlin.github.io"
 teaser                   :  "favicon.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Hanlin-Wu"
+  github           : "henrywuhanlin"
   google_plus      :
   keybase          :
   instagram        :
@@ -174,19 +174,19 @@ kramdown:
 
 
 # Collections
-#collections:
-#  teaching:
-#    output: true
-#    permalink: /:collection/:path/
-#  publications:
-#    output: true
-#    permalink: /:collection/:path/
-#  portfolio:
-#    output: true
-#    permalink: /:collection/:path/
-#  talks:
-#    output: true
-#    permalink: /:collection/:path/
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
