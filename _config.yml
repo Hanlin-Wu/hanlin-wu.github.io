@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "WU, Hanlin (Henry)"
   avatar           : "profile.png"
-  bio              : "Hi, I am a PhD student at the Language Processing Lab, the Chinese University of Hong Kong."
+  bio              : 
   location         : "Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ZT-J0MoAAAAJ&hl=zh-CN"
-  email            :
+  email            : "hanlin.wu@link.cuhk.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
