@@ -9,5 +9,5 @@ redirect_from:
 ---
 
 **About Me**
-
+"Hi, I am a PhD student at the Language Processing Lab, the Chinese University of Hong Kong."
 
