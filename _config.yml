@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : 
-name                     : &name "Hanlin Wu"
+name                     : &name "Hanlin Wu (Henry)"
 description              : &description "personal description"
 url                      : "https://henrywuhanlin.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "WU, Hanlin (Henry)"
+  name             : 
   avatar           : "profile.png"
   bio              : 
   location         : "Hong Kong"
