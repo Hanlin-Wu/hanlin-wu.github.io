@@ -9,5 +9,8 @@ redirect_from:
 ---
 
 **About Me**
-"Hi, I am a PhD student at the Language Processing Lab, the Chinese University of Hong Kong."
+
+hanlin.wu@link.cuhk.edu.hk
+
+Hi, I am a PhD student at the Language Processing Lab, the Chinese University of Hong Kong.
 
