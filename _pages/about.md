@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Henry Wu"
+title: "Hanlin Wu (Henry)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
