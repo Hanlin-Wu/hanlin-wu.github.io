@@ -1,6 +1,7 @@
 ---
+title: 'News'
 permalink:/pages/
-title: "News"
+
 ---
 
 **01**
