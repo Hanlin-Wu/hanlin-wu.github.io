@@ -1,8 +1,9 @@
 ---
 title: 'News'
-permalink:/pages/
+permalink: /pages/
 
 ---
+
 
 **01**
 I 
