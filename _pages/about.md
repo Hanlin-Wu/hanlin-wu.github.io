@@ -19,3 +19,4 @@ I'm interested in how the human brain represents and processes linguistic and so
 **News**
 
 **3 November 2023.** [AMLaP Asia 2023](https://ling.cuhk.edu.hk/amlap.asia/) was successfully concluded! This was the first international acedemic conference that I co-organised. I was so happy that many attendees enjoyed the three-day conference as well as the pre-conference workshop.
+![AMLaP1](images/News202312031.png)
