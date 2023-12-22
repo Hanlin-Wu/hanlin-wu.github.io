@@ -1,6 +1,6 @@
 ---
 title: "News"
-permalink: /pages/
+permalink: /pages/news
 
 ---
 
