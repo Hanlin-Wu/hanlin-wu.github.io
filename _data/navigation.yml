@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "News"
-    url: /posts/2023-06-24-news.md
+    url: /pages/news.md
     
 #  - title: "Publications"
 #    url: /publications/
