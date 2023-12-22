@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<br>
-
 hanlin.wu@link.cuhk.edu.hk
 
 I am a PhD candidate in the [Language Processing Lab](https://cuhklpl.github.io/index.html) at the Department of Linguistics and Modern Languages, the Chinese University of Hong Kong. Prior to joining the lab, I worked as a research assistant at the Institute of Psychology, Chinese Academy of Sciences. I have a Research Master's degree in Basic Psychology at Renmin University of China (2020), and a B.A. in Translation and Interpreting at Beijing International Studies University (2017).
