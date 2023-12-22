@@ -15,6 +15,8 @@ I am a PhD candidate in the [Language Processing Lab](https://cuhklpl.github.io/
 
 I'm interested in how the human brain represents and processes linguistic and social information. My PhD thesis looks at how the demographic information of the speaker influences spoken language comprehension. Meanwhile, I am doing projects related to how social-emotional information and linguistic information are processed in the brains of children with and without Autistic Spectrum Disorder (ASD). In most of my work, I use methods of EEG and fMRI.
 
+
+
 **News**
 
 **3 November 2023.** [AMLaP Asia 2023](https://ling.cuhk.edu.hk/amlap.asia/) was successfully concluded. This was the first international acedemic conference that I co-organised! I was so happy that many attendees enjoyed the three-day conference as well as the pre-conference workshop.
