@@ -1,14 +1,12 @@
 ---
 permalink: /
 title: "Hanlin Wu, Henry"
-excerpt: "About me"
+excerpt: "News"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 
-**About Me**
+**News**
 
 hanlin.wu@link.cuhk.edu.hk
 
