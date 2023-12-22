@@ -1,5 +1,5 @@
 ---
-permalink: /pages/
+permalink:/pages/
 title: "News"
 ---
 
