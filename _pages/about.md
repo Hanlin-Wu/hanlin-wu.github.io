@@ -16,9 +16,11 @@ I'm interested in how the human brain represents and processes linguistic and so
 
 <br>
 
-**Academic Journal**
+**My Research Journal**
 
-**25 June 2024.** I attended [The 7th International Conference of Psycholinguistics in China (CAP2024)](https://www.cap2024.cn/) in Dalian, China, and gave an oral presentation *Implausible Speech Comprehension*.
+**25 June 2024.** I got a paper accepted! Wu, H., Duan, X., & Cai, Z. G. (accepted). Speaker demographics modulate listeners' neural correlates of spoken word processing. *Journal of Cognitive Neuroscience*.
+
+**25 May 2024.** I attended [The 7th International Conference of Psycholinguistics in China (CAP2024)](https://www.cap2024.cn/) in Dalian, China, and gave an oral presentation *Implausible Speech Comprehension*.
 
 **3 December 2023.** [AMLaP Asia 2023](https://ling.cuhk.edu.hk/amlap.asia/) has been successfully concluded! This has been the first international acedemic conference in which I was a co-organiser. I am so happy that many attendees have enjoyed the three-day conference as well as the pre-conference workshop.
 
