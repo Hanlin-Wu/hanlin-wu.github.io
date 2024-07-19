@@ -18,7 +18,7 @@ I'm interested in how the human brain represents and processes linguistic and so
 
 **My Research Journal**
 
-**25 June 2024.** I've got a paper accepted! Wu, H., Duan, X., & Cai, Z. G. (accepted). Speaker demographics modulate listeners' neural correlates of spoken word processing. *Journal of Cognitive Neuroscience*. Today is exactly one year from the first time I presented this work at Cogsci 2023 Hong Kong Meetup.
+**25 June 2024.** I've got a paper accepted! Wu, H., Duan, X., & Cai, Z. G. (2024). Speaker demographics modulate listeners' neural correlates of spoken word processing. *Journal of Cognitive Neuroscience*. https://doi.org/10.1162/jocn_a_02225. Today is exactly one year from the first time I presented this work at Cogsci 2023 Hong Kong Meetup.
 
 **25 May 2024.** I attend [The 7th International Conference of Psycholinguistics in China (CAP2024)](https://www.cap2024.cn/) in Dalian, China, and give an oral presentation *Implausible Speech Comprehension*.
 
