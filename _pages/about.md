@@ -18,9 +18,9 @@ I'm interested in how the human brain represents and processes linguistic and so
 
 **My Activity**
 
-**27 Sept 2024.** I've got a manuscript available as a preprint. Wu, H., & Cai, Z. G. (2024). [When A Man Says He Is Pregnant: ERP Evidence for A Rational Account of Speaker-contextualized Language Comprehension.](https://doi.org/10.48550/arXiv.2409.17525)
+**27 Sept 2024.** I've got a manuscript available as a preprint. [Wu, H., & Cai, Z. G. (2024). When A Man Says He Is Pregnant: ERP Evidence for A Rational Account of Speaker-contextualized Language Comprehension.](https://doi.org/10.48550/arXiv.2409.17525)
 
-**25 June 2024.** I've got a paper accepted! Wu, H., Duan, X., & Cai, Z. G. (2024). [Speaker Demographics Modulate Listeners' Neural Correlates of Spoken Word Processing. Journal of Cognitive Neuroscience, 36(10), 2208-2226.](https://doi.org/10.1162/jocn_a_02225) Today is exactly one year from the first time I presented this work at Cogsci 2023 Hong Kong Meetup.
+**25 June 2024.** I've got a paper accepted! [Wu, H., Duan, X., & Cai, Z. G. (2024). Speaker Demographics Modulate Listeners' Neural Correlates of Spoken Word Processing. Journal of Cognitive Neuroscience, 36(10), 2208-2226.](https://doi.org/10.1162/jocn_a_02225) Today is exactly one year from the first time I presented this work at Cogsci 2023 Hong Kong Meetup.
 
 **25 May 2024.** I attend [The 7th International Conference of Psycholinguistics in China (CAP2024)](https://www.cap2024.cn/) in Dalian, China, and give an oral presentation *Implausible Speech Comprehension*.
 
