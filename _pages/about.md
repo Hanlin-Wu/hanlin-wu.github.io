@@ -12,13 +12,15 @@ hanlin.wu@link.cuhk.edu.hk
 
 I am a PhD candidate of Linguistics (expected to get the degree in 2024) in the [Language Processing Lab](https://cuhklpl.github.io/index.html) at the Department of Linguistics and Modern Languages, the Chinese University of Hong Kong. Before joining the lab, I worked as a research assistant at the Institute of Psychology, Chinese Academy of Sciences. I hold a Research Master's degree in Basic Psychology at Renmin University of China (2020), and a B.A. in Translation and Interpreting at Beijing International Studies University (2017).
 
-I'm interested in how the human brain represents and processes linguistic and social information. My PhD thesis looks at how the demographic information of the speaker influences spoken language comprehension. Meanwhile, I am doing projects related to how social-emotional information and linguistic information are processed in the brains of children with and without Autistic Spectrum Disorder (ASD). In most of my work, I use methods of EEG.
+I'm interested in how the human brain represents and processes linguistic and social information. My PhD thesis looks at how the demographic information of the speaker influences spoken language comprehension. Meanwhile, I am doing projects related to how social-emotional information and linguistic information are processed in the brains of children with and without Autistic Spectrum Disorder (ASD). In most of my work, I use neuropsysiological methods of EEG.
 
 <br>
 
 **My Activity**
 
-**27 Sept 2024.** I've got a manuscript available as a preprint. [Wu, H., & Cai, Z. G. (2024). When A Man Says He Is Pregnant: ERP Evidence for A Rational Account of Speaker-contextualized Language Comprehension.](https://doi.org/10.48550/arXiv.2409.17525)
+**8 Oct 2024.** A preprint paper with me as a collaberator is now available on PsyArXiv. [Rao, X., Wu, H., & Cai, Z. G. (2024). Comprehending semantic and syntactic anomalies in LLM- versus human-generated texts: An ERP study.](https://doi.org/10.31234/osf.io/kvbg2)
+
+**27 Sept 2024.** I've got a manuscript available as a preprint on arXiv. [Wu, H., & Cai, Z. G. (2024). When A Man Says He Is Pregnant: ERP Evidence for A Rational Account of Speaker-contextualized Language Comprehension.](https://doi.org/10.48550/arXiv.2409.17525)
 
 **25 June 2024.** I've got a paper accepted! [Wu, H., Duan, X., & Cai, Z. G. (2024). Speaker Demographics Modulate Listeners' Neural Correlates of Spoken Word Processing. Journal of Cognitive Neuroscience, 36(10), 2208-2226.](https://doi.org/10.1162/jocn_a_02225) Today is exactly one year from the first time I presented this work at Cogsci 2023 Hong Kong Meetup.
 
